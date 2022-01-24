@@ -8,3 +8,6 @@ Zudem bietet dir die App eine echte Motivation! Sie zeigt dir deinen Einsatzfort
 Des Weiteren gibt es eine Urlaubsfunktion, in dieser können Sie bis zu 30 Tage festlegen, an diesen kein AVZ berechnet werden soll.
 
 AVZ-Status ist eine reine offline App, die somit keine Internetverbindung benötigt und nur dem privaten Zweck dient. Alle vom Nutzer eingegebenen Daten werden ausschließlich auf dem vom Nutzer eigenen Gerät gespeichert, verarbeitet und können zu keinem Zeitpunkt über eine Internetverbindung abgerufen werden.
+
+### Download
+- [Android](https://play.google.com/store/apps/details?id=com.renekraus.avz_rechner)
