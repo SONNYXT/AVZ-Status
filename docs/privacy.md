@@ -12,19 +12,19 @@ Stand: 24. Januar 2022
 
 ### Inhaltsübersicht
 
-1. Einleitung
-2. Verantwortlicher
-3. Übersicht der Verarbeitungen
-4. Maßgebliche Rechtsgrundlagen
-5. Änderung und Aktualisierung der Datenschutzerklärung
+- Einleitung
+- Verantwortlicher
+- Übersicht der Verarbeitungen
+- Maßgebliche Rechtsgrundlagen
+- Änderung und Aktualisierung der Datenschutzerklärung
 
 ### Verantwortlicher
 
-- René Kraus,
-- Auer Str. 33a
+- René Kraus 
+- Auer Str. 33a 
 - 89257, Illertissen, Deutschland
 
-E-Mail-Adresse:
+- E-Mail-Adresse:
 ReneKrausx@gmail.com
 
 ### Übersicht der Verarbeitungen
