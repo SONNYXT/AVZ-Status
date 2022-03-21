@@ -21,8 +21,6 @@ Stand: 24. Januar 2022
 ### Verantwortlicher
 
 - René Kraus 
-- Auer Str. 33a 
-- 89257, Illertissen, Deutschland
 
 - E-Mail-Adresse:
 ReneKrausx@gmail.com
